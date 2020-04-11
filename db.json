@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "fix something",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-01-28T02:07:19.635Z"
+    },
+    {
+      "message": "fix something else",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-01-28T02:05:31.346Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Daniel",
+      "lastName": "Owens"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Raft"
+    }
+  ]
+}
